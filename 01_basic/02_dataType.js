@@ -12,7 +12,7 @@ let age = 21
 let isloggedIn = false
 
 //number => 2 to power 53
-//bigint for big website like trading, fb
+//bigint for big website like trading, fb  
 //string => ""
 // boolean => true/false 
 //null => standalone value
